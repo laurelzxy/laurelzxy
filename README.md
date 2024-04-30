@@ -1,16 +1,13 @@
-### Hi there 👋
+### Ola eu sou a Laura Olivar 👋
 
-<!--
-**laurelzxy/laurelzxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=laurelzxy&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/laurelzxy)
+<!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 
-Here are some ideas to get you started:
+<samp>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+<div align="center">
+<b align="">Sobre mim:</b>
+<p align="">Atualmente estudo Programação de Jogos no senai de São Caetano do Sul.</p>
+<p align=""></p>
+<p align="">Gosto de tudo ligado a tecnologia e sempre estou ligada a assuntos desta área 🤝</p>
