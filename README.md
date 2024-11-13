@@ -1,4 +1,4 @@
-### Ola eu sou a Laura Olivar 👋
+### Hi, I'm Laura Olivar 👋
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=laurelzxy&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/laurelzxy)
 <!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
