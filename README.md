@@ -8,9 +8,9 @@
  
 <div align="center">
 <b align="">Sobre mim:</b>
-<p align="">Atualmente estudo Programação de Jogos no senai de São Caetano do Sul.</p>
+<p align="">I currently study Game Programming at the São Caetano do Sul Senai.</p>
 <p align=""></p>
-<p align="">Gosto de tudo ligado a tecnologia e sempre estou ligada a assuntos desta área 🤝</p>
+<p align="">I like everything related to technology and I am always connected to issues in this area 🤝</p>
 
 <b>Minha Stack:</b>
 <p align="center">
