@@ -7,7 +7,7 @@
 
  
 <div align="center">
-<b align="">Sobre mim:</b>
+<b align="">About me:</b>
 <p align="">I currently study Game Programming at the São Caetano do Sul Senai.</p>
 <p align=""></p>
 <p align="">I like everything related to technology and I am always connected to issues in this area 🤝</p>
