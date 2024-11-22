@@ -12,7 +12,7 @@
 <p align=""></p>
 <p align="">I like everything related to technology and I am always connected to issues in this area 🤝</p>
 
-<b>Minha Stack:</b>
+<b> My Stack: </b>
 <p align="center">
 <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" alt="Git" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="36" height="36" alt="Git" /></a>
