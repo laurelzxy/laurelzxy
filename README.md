@@ -40,7 +40,7 @@
   </table>
 
   <div align="center">
-  <p><b>sociais:</b></p>
+  <p><b>social media:</b></p>
   <code><a href="https://www.linkedin.com/in/laura-olivar-santos-0964712ba/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></code>
   <code><a href="http://www.instagram.com/laurelzyx" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a></code>
   <code><a href="(mailto:laurenolivar14@gmail.com)"><img src="https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge"></a></code>
