@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> hello, I'm Laura Olivar! </h2>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> Hello, I'm Laura Olivar! </h2>
 
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=laurelzxy&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/laurelzxy)
