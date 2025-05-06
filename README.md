@@ -25,6 +25,7 @@
  <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VisualStudio-Dark.svg" width="36" height="36" alt="Git" /></a>
  <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Azure-Dark.svg" width="36" height="36" alt="Git" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Unity-Dark.svg" width="36" height="36" alt="Git" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/svg/521725/linkedin" width="36" height="36" alt="Git" /></a>
 
 
  
