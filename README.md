@@ -9,9 +9,9 @@
  
 <div align="center">
 <b align="">About me:</b>
-<p align="">I currently study Game Programming at the São Caetano do Sul Senai.</p>
+<p align="">My name is Laura, I'm a student on the digital games technical course.</p>
 <p align=""></p>
-<p align="">I like everything related to technology and I am always connected to issues in this area</p>
+<p align="">I am in the third semester and I am looking for experience in the job market in game development. I am always looking to create new academic challenges and learn more about technology.</p>
 
 <b> My Stack: </b>
 <p align="center">
